@@ -1,7 +1,7 @@
 # Hi there, I'm Kunal 👋
 
 ## 🚀 About Me
-I'm a passionate cev in San Jose, CA. I love to code & learn new technologies.
+I'm a passionate dev in San Jose, CA. I love to code & learn new technologies.
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
