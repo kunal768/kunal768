@@ -10,10 +10,13 @@ I'm a passionate dev in San Jose, CA. I love to code & learn new technologies.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-000000?style=flat-square&logo=leetcode&logoColor=yellow)
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-DD4B39?style=flat-square&logo=devicon&logoColor=white)
+
 
 
 ## 📫 How to reach me
