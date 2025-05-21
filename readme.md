@@ -1,7 +1,10 @@
 # Hi there, I'm Kunal 👋
 
 ## 🚀 About Me
-I'm a passionate dev based in San Jose, CA. I love to code & learn new technologies.
+Pursuing Masters in Software Engineering at San Jose State University
+Ex-SWE Onmeta, Philips 
+Interests: Distributed Systems, Backend Development, AI, LLM
+Always exploring cool stuff !
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -25,9 +28,6 @@ I'm a passionate dev based in San Jose, CA. I love to code & learn new technolog
 
 ## 📈 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal768&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=kunal768&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🐍 Contribution Graph
 ![Snake animation](https://github.com/kunal768/kunal768/blob/output/github-contribution-grid-snake.svg)
