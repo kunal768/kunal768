@@ -1,9 +1,9 @@
 # Hi there, I'm Kunal 👋
 
 ## 🚀 About Me
-Pursuing Masters in Software Engineering at San Jose State University
-Ex-SWE Onmeta, Philips 
-Interests: Distributed Systems, Backend Development, AI, LLM
+Pursuing Masters in Software Engineering at San Jose State University <br />
+Ex-SWE [Onmeta](https://onmeta.in), [Philips](https://www.philips.co.in) <br />
+Interests: Distributed Systems, Backend Development, AI-LLMs based development <br />
 Always exploring cool stuff !
 
 ## 🛠 Skills
