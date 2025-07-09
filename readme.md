@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 Pursuing Masters in Software Engineering at San Jose State University <br />
-Ex-SWE [Onmeta](https://onmeta.in), [Philips Healthcare](https://www.philips.co.in/healthcare) <br />
+Ex-SWE [Onmeta (Web 3.0)](https://onmeta.in), [Philips Healthcare](https://www.philips.co.in/healthcare) <br />
 Interests: Distributed Systems, Backend Development, AI-LLMs based development <br />
 Always exploring cool stuff !
 
