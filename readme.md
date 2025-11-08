@@ -24,10 +24,12 @@ Always exploring cool stuff !
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kunal768)
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](Your Twitter URL) -->
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sahnigwl@gmail.com)
 
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](Your Twitter URL) -->
+<!--
 ## 📈 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal768&layout=compact&theme=radical)
-
+-->
 ## 🐍 Contribution Graph
 ![Snake animation](https://github.com/kunal768/kunal768/blob/output/github-contribution-grid-snake.svg)
