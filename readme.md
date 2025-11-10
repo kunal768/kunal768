@@ -26,13 +26,10 @@ Always exploring cool stuff !
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kunal768)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sahnigwl@gmail.com)
 
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](Your Twitter URL) -->
-<!--
-## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal768&layout=compact&theme=radical)
+
+## LeetCode Stats 
+![LeetCode Stats](https://leetcard.jacoblin.cool/babaji440?theme=light&font=BIZ%20UDPGothic&ext=contest)
 -->
 ## 🐍 Contribution Graph
 ![Snake animation](https://github.com/kunal768/kunal768/blob/output/github-contribution-grid-snake.svg)
 
-## LeetCode Stats 
-![LeetCode Stats](https://leetcard.jacoblin.cool/babaji440?theme=light&font=BIZ%20UDPGothic&ext=contest)
