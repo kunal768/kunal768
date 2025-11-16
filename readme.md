@@ -29,7 +29,6 @@ Always exploring cool stuff !
 
 ## LeetCode Stats 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/babaji440?theme=light&font=BIZ%20UDPGothic&ext=contest)
--->
 ## 🐍 Contribution Graph
 ![Snake animation](https://github.com/kunal768/kunal768/blob/output/github-contribution-grid-snake.svg)
 
